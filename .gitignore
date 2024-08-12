@@ -1,0 +1,5 @@
+.venv/ 
+.venv/*
+ 
+# Carpetas y archivos del Proyecto 
+RAGS/
